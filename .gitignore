@@ -144,5 +144,4 @@ dist
 .svelte-kit
 
 .DS_Store
-.npmrc
 # End of https://www.toptal.com/developers/gitignore/api/node
